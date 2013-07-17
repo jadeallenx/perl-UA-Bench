@@ -3,3 +3,4 @@ requires 'Furl';
 requires 'Mojolicious';
 requires 'LWP::Curl';
 requires 'LWP::UserAgent';
+requires 'Starman';
